@@ -7,4 +7,3 @@ if you try to code on same project please go through on Github Link- https://git
 Output -
 ![To do List](https://user-images.githubusercontent.com/108295187/192114525-372d88c8-96bd-4f70-a954-30353ad879bc.png)
 
-Here is the video link for better description this project-
